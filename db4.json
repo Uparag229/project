@@ -1,0 +1,34 @@
+{
+  "description": [
+    {
+      "hospital": "Capital Hospital",
+      "doctor_name": "Dr. Rajesh Sharma",
+      "specialization": "Cardiologist",
+      "experience": "15 years",
+      "landmark": "Near Railway Station",
+      "booked_slots": {
+        "2025-03-15": [
+          "04:30 PM"
+        ]
+      },
+      "id": "d38d"
+    },
+    {
+      "hospital": "Apollo Hospital",
+      "doctor_name": "Dr. John Doe",
+      "specialization": "General Surgeon",
+      "experience": "10 years",
+      "landmark": "Near City Center",
+      "booked_slots": {
+        "2025-03-15": [
+          "02:00 PM",
+          "04:30 PM"
+        ],
+        "2025-03-17": [
+          "10:00 AM"
+        ]
+      },
+      "id": "1549"
+    }
+  ]
+}
