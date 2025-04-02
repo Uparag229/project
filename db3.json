@@ -1,0 +1,1796 @@
+{
+  "doctors": [
+    {
+      "hospital": "Capital Hospital",
+      "doctor_name": "Dr. Rajesh Sharma",
+      "specialization": "Cardiologist",
+      "experience": "15 years",
+      "landmark": "Near Railway Station"
+    },
+    {
+      "hospital": "Capital Hospital",
+      "doctor_name": "Dr. Priya Das",
+      "specialization": "Neurologist",
+      "experience": "10 years",
+      "landmark": "Opposite Bus Stand"
+    },
+    {
+      "hospital": "Capital Hospital",
+      "doctor_name": "Dr. Amit Verma",
+      "specialization": "Orthopedic",
+      "experience": "12 years",
+      "landmark": "Near City Mall"
+    },
+    {
+      "hospital": "Capital Hospital",
+      "doctor_name": "Dr. Sneha Patel",
+      "specialization": "Pediatrician",
+      "experience": "8 years",
+      "landmark": "Beside Park Street"
+    },
+    {
+      "hospital": "Capital Hospital",
+      "doctor_name": "Dr. Vinay Reddy",
+      "specialization": "Dermatologist",
+      "experience": "10 years",
+      "landmark": "Near Central Market"
+    },
+    {
+      "hospital": "Capital Hospital",
+      "doctor_name": "Dr. Meena Ghosh",
+      "specialization": "Gynecologist",
+      "experience": "14 years",
+      "landmark": "Opposite Metro Station"
+    },
+    {
+      "hospital": "Capital Hospital",
+      "doctor_name": "Dr. Ramesh Verma",
+      "specialization": "ENT Specialist",
+      "experience": "11 years",
+      "landmark": "Near City Tower"
+    },
+    {
+      "hospital": "Capital Hospital",
+      "doctor_name": "Dr. Kiran Rao",
+      "specialization": "General Physician",
+      "experience": "9 years",
+      "landmark": "Next to Post Office"
+    },
+    {
+      "hospital": "Capital Hospital",
+      "doctor_name": "Dr. Suresh Nanda",
+      "specialization": "Cardiologist",
+      "experience": "16 years",
+      "landmark": "Near High Court"
+    },
+    {
+      "hospital": "Capital Hospital",
+      "doctor_name": "Dr. Pooja Sen",
+      "specialization": "Oncologist",
+      "experience": "13 years",
+      "landmark": "Behind Shopping Complex"
+    },
+    {
+      "hospital": "Ashwini Hospital",
+      "doctor_name": "Dr. Neeraj Tiwari",
+      "specialization": "Urologist",
+      "experience": "12 years",
+      "landmark": "Near City Bus Stop"
+    },
+    {
+      "hospital": "Ashwini Hospital",
+      "doctor_name": "Dr. Alok Mishra",
+      "specialization": "Endocrinologist",
+      "experience": "10 years",
+      "landmark": "Opposite School Building"
+    },
+    {
+      "hospital": "Ashwini Hospital",
+      "doctor_name": "Dr. Kavita Sharma",
+      "specialization": "Nephrologist",
+      "experience": "14 years",
+      "landmark": "Near Tech Park"
+    },
+    {
+      "hospital": "Ashwini Hospital",
+      "doctor_name": "Dr. Sumit Roy",
+      "specialization": "Pulmonologist",
+      "experience": "9 years",
+      "landmark": "Near Shopping Mall"
+    },
+    {
+      "hospital": "Ashwini Hospital",
+      "doctor_name": "Dr. Akash Jain",
+      "specialization": "Psychiatrist",
+      "experience": "13 years",
+      "landmark": "Opposite City Hall"
+    },
+    {
+      "hospital": "Ashwini Hospital",
+      "doctor_name": "Dr. Ritika Bose",
+      "specialization": "Gynecologist",
+      "experience": "11 years",
+      "landmark": "Near Central Garden"
+    },
+    {
+      "hospital": "Ashwini Hospital",
+      "doctor_name": "Dr. Rohan Mehta",
+      "specialization": "Cardiologist",
+      "experience": "17 years",
+      "landmark": "Beside Metro Station"
+    },
+    {
+      "hospital": "Ashwini Hospital",
+      "doctor_name": "Dr. Pratik Sengupta",
+      "specialization": "Orthopedic",
+      "experience": "14 years",
+      "landmark": "Next to Library"
+    },
+    {
+      "hospital": "Ashwini Hospital",
+      "doctor_name": "Dr. Sanjana Iyer",
+      "specialization": "Pediatrician",
+      "experience": "10 years",
+      "landmark": "Near Old Town Market"
+    },
+    {
+      "hospital": "Ashwini Hospital",
+      "doctor_name": "Dr. Rajan Kapoor",
+      "specialization": "ENT Specialist",
+      "experience": "12 years",
+      "landmark": "Opposite Community Center"
+    },
+    {
+      "hospital": "SUM Hospital",
+      "doctor_name": "Dr. Ramesh Kumar",
+      "specialization": "Cardiologist",
+      "experience": "18 years",
+      "landmark": "Near Highway"
+    },
+    {
+      "hospital": "SUM Hospital",
+      "doctor_name": "Dr. Anita Sinha",
+      "specialization": "Neurologist",
+      "experience": "10 years",
+      "landmark": "Next to Shopping Plaza"
+    },
+    {
+      "hospital": "SUM Hospital",
+      "doctor_name": "Dr. Harsh Gupta",
+      "specialization": "Orthopedic",
+      "experience": "13 years",
+      "landmark": "Near Bus Stand"
+    },
+    {
+      "hospital": "SUM Hospital",
+      "doctor_name": "Dr. Sneha Kapoor",
+      "specialization": "Pediatrician",
+      "experience": "8 years",
+      "landmark": "Beside Central Park"
+    },
+    {
+      "hospital": "SUM Hospital",
+      "doctor_name": "Dr. Vikas Sharma",
+      "specialization": "Dermatologist",
+      "experience": "12 years",
+      "landmark": "Near City Hall"
+    },
+    {
+      "hospital": "SUM Hospital",
+      "doctor_name": "Dr. Kavya Reddy",
+      "specialization": "Gynecologist",
+      "experience": "14 years",
+      "landmark": "Behind Metro Station"
+    },
+    {
+      "hospital": "SUM Hospital",
+      "doctor_name": "Dr. Ravi Patel",
+      "specialization": "ENT Specialist",
+      "experience": "10 years",
+      "landmark": "Opposite Tech Hub"
+    },
+    {
+      "hospital": "SUM Hospital",
+      "doctor_name": "Dr. Neha Tiwari",
+      "specialization": "General Physician",
+      "experience": "9 years",
+      "landmark": "Near Central Market"
+    },
+    {
+      "hospital": "SUM Hospital",
+      "doctor_name": "Dr. Sanjay Roy",
+      "specialization": "Oncologist",
+      "experience": "13 years",
+      "landmark": "Next to Community Center"
+    },
+    {
+      "hospital": "SUM Hospital",
+      "doctor_name": "Dr. Pankaj Mehta",
+      "specialization": "Pulmonologist",
+      "experience": "11 years",
+      "landmark": "Beside Police Station"
+    },
+    {
+      "hospital": "Samhita Hospital",
+      "doctor_name": "Dr. Rahul Singh",
+      "specialization": "Cardiologist",
+      "experience": "10 years",
+      "landmark": "Near Railway Station"
+    },
+    {
+      "hospital": "Samhita Hospital",
+      "doctor_name": "Dr. Meera Kapoor",
+      "specialization": "Dermatologist",
+      "experience": "8 years",
+      "landmark": "Near Shopping Complex"
+    },
+    {
+      "hospital": "Bhubaneswar Hospital",
+      "doctor_name": "Dr. Suresh Nanda",
+      "specialization": "Pediatrician",
+      "experience": "12 years",
+      "landmark": "Next to Library"
+    },
+    {
+      "hospital": "Bhubaneswar Hospital",
+      "doctor_name": "Dr. Anjali Rao",
+      "specialization": "ENT Specialist",
+      "experience": "9 years",
+      "landmark": "Near City Mall"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Ramesh Gupta",
+      "specialization": "Cardiologist",
+      "experience": "15 years",
+      "landmark": "Near Central Mall"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Priya Malhotra",
+      "specialization": "Neurologist",
+      "experience": "12 years",
+      "landmark": "Opposite Metro Station"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Alok Sen",
+      "specialization": "Orthopedic",
+      "experience": "10 years",
+      "landmark": "Beside City Park"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Sneha Rao",
+      "specialization": "Pediatrician",
+      "experience": "9 years",
+      "landmark": "Near Tech Park"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Vinay Mehta",
+      "specialization": "Dermatologist",
+      "experience": "11 years",
+      "landmark": "Opposite Railway Station"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Meena Iyer",
+      "specialization": "Gynecologist",
+      "experience": "14 years",
+      "landmark": "Near High Court"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Rohan Nanda",
+      "specialization": "ENT Specialist",
+      "experience": "13 years",
+      "landmark": "Beside Police Station"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Sanjana Verma",
+      "specialization": "General Physician",
+      "experience": "8 years",
+      "landmark": "Next to Post Office"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Pooja Roy",
+      "specialization": "Oncologist",
+      "experience": "16 years",
+      "landmark": "Behind Shopping Center"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Rajan Sharma",
+      "specialization": "Pulmonologist",
+      "experience": "10 years",
+      "landmark": "Near City Bus Stop"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Neeraj Tiwari",
+      "specialization": "Urologist",
+      "experience": "12 years",
+      "landmark": "Near Tech Hub"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Alok Singh",
+      "specialization": "Endocrinologist",
+      "experience": "10 years",
+      "landmark": "Opposite School Building"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Kavita Kapoor",
+      "specialization": "Nephrologist",
+      "experience": "14 years",
+      "landmark": "Near City Garden"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Sumit Patel",
+      "specialization": "Pulmonologist",
+      "experience": "9 years",
+      "landmark": "Near Shopping Complex"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Ritika Bose",
+      "specialization": "Gynecologist",
+      "experience": "11 years",
+      "landmark": "Next to Library"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Rohan Mehta",
+      "specialization": "Cardiologist",
+      "experience": "17 years",
+      "landmark": "Beside Metro Station"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Pratik Sengupta",
+      "specialization": "Orthopedic",
+      "experience": "14 years",
+      "landmark": "Near Community Center"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Sanjana Iyer",
+      "specialization": "Pediatrician",
+      "experience": "10 years",
+      "landmark": "Near Old Market"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Rajan Kapoor",
+      "specialization": "ENT Specialist",
+      "experience": "12 years",
+      "landmark": "Next to City Hall"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Vikas Reddy",
+      "specialization": "Oncologist",
+      "experience": "13 years",
+      "landmark": "Near Police Station"
+    },
+    {
+      "hospital": "Mediwish Hospital",
+      "doctor_name": "Dr. Ravi Kumar",
+      "specialization": "Cardiologist",
+      "experience": "18 years",
+      "landmark": "Near Highway"
+    },
+    {
+      "hospital": "Mediwish Hospital",
+      "doctor_name": "Dr. Anita Sinha",
+      "specialization": "Neurologist",
+      "experience": "10 years",
+      "landmark": "Next to Shopping Plaza"
+    },
+    {
+      "hospital": "Mediwish Hospital",
+      "doctor_name": "Dr. Harsh Gupta",
+      "specialization": "Orthopedic",
+      "experience": "13 years",
+      "landmark": "Near Bus Stand"
+    },
+    {
+      "hospital": "Mediwish Hospital",
+      "doctor_name": "Dr. Sneha Kapoor",
+      "specialization": "Pediatrician",
+      "experience": "8 years",
+      "landmark": "Beside Central Park"
+    },
+    {
+      "hospital": "Mediwish Hospital",
+      "doctor_name": "Dr. Vikas Sharma",
+      "specialization": "Dermatologist",
+      "experience": "12 years",
+      "landmark": "Near City Hall"
+    },
+    {
+      "hospital": "Mediwish Hospital",
+      "doctor_name": "Dr. Kavya Reddy",
+      "specialization": "Gynecologist",
+      "experience": "14 years",
+      "landmark": "Behind Metro Station"
+    },
+    {
+      "hospital": "Mediwish Hospital",
+      "doctor_name": "Dr. Ravi Patel",
+      "specialization": "ENT Specialist",
+      "experience": "10 years",
+      "landmark": "Opposite Tech Hub"
+    },
+    {
+      "hospital": "Mediwish Hospital",
+      "doctor_name": "Dr. Neha Tiwari",
+      "specialization": "General Physician",
+      "experience": "9 years",
+      "landmark": "Near Central Market"
+    },
+    {
+      "hospital": "Mediwish Hospital",
+      "doctor_name": "Dr. Sanjay Roy",
+      "specialization": "Oncologist",
+      "experience": "13 years",
+      "landmark": "Next to Community Center"
+    },
+    {
+      "hospital": "Mediwish Hospital",
+      "doctor_name": "Dr. Pankaj Mehta",
+      "specialization": "Pulmonologist",
+      "experience": "11 years",
+      "landmark": "Beside Police Station"
+    },
+    {
+      "hospital": "Care Hospital",
+      "doctor_name": "Dr. Rahul Singh",
+      "specialization": "Cardiologist",
+      "experience": "10 years",
+      "landmark": "Near Railway Station"
+    },
+    {
+      "hospital": "Care Hospital",
+      "doctor_name": "Dr. Meera Kapoor",
+      "specialization": "Dermatologist",
+      "experience": "8 years",
+      "landmark": "Near Shopping Complex"
+    },
+    {
+      "hospital": "Ayush Hospital",
+      "doctor_name": "Dr. Suresh Nanda",
+      "specialization": "Pediatrician",
+      "experience": "12 years",
+      "landmark": "Next to Library"
+    },
+    {
+      "hospital": "Ayush Hospital",
+      "doctor_name": "Dr. Anjali Rao",
+      "specialization": "ENT Specialist",
+      "experience": "9 years",
+      "landmark": "Near City Mall"
+    },
+    {
+      "hospital": "Bhubaneswar Health Care",
+      "doctor_name": "Dr. Arun Kumar",
+      "specialization": "Cardiologist",
+      "experience": "15 years",
+      "landmark": "Near Bhubaneswar Market"
+    },
+    {
+      "hospital": "Bhubaneswar Health Care",
+      "doctor_name": "Dr. Ritu Sharma",
+      "specialization": "Neurologist",
+      "experience": "12 years",
+      "landmark": "Opposite City Mall"
+    },
+    {
+      "hospital": "Bhubaneswar Health Care",
+      "doctor_name": "Dr. Vijay Iyer",
+      "specialization": "Orthopedic",
+      "experience": "10 years",
+      "landmark": "Near Bus Depot"
+    },
+    {
+      "hospital": "Bhubaneswar Health Care",
+      "doctor_name": "Dr. Anjali Mehta",
+      "specialization": "Pediatrician",
+      "experience": "9 years",
+      "landmark": "Beside Railway Station"
+    },
+    {
+      "hospital": "Bhubaneswar Health Care",
+      "doctor_name": "Dr. Rajesh Nanda",
+      "specialization": "Dermatologist",
+      "experience": "11 years",
+      "landmark": "Near Tech Park"
+    },
+    {
+      "hospital": "Bhubaneswar Health Care",
+      "doctor_name": "Dr. Sneha Reddy",
+      "specialization": "Gynecologist",
+      "experience": "14 years",
+      "landmark": "Next to City Library"
+    },
+    {
+      "hospital": "Bhubaneswar Health Care",
+      "doctor_name": "Dr. Alok Sharma",
+      "specialization": "ENT Specialist",
+      "experience": "13 years",
+      "landmark": "Opposite Central Hospital"
+    },
+    {
+      "hospital": "Bhubaneswar Health Care",
+      "doctor_name": "Dr. Kavita Rao",
+      "specialization": "General Physician",
+      "experience": "8 years",
+      "landmark": "Near Green Park"
+    },
+    {
+      "hospital": "Bhubaneswar Health Care",
+      "doctor_name": "Dr. Pratik Sen",
+      "specialization": "Oncologist",
+      "experience": "16 years",
+      "landmark": "Next to Community Hall"
+    },
+    {
+      "hospital": "Bhubaneswar Health Care",
+      "doctor_name": "Dr. Vinod Kapoor",
+      "specialization": "Pulmonologist",
+      "experience": "10 years",
+      "landmark": "Near IT Hub"
+    },
+    {
+      "hospital": "Government Health Centre",
+      "doctor_name": "Dr. Piyush Malhotra",
+      "specialization": "Cardiologist",
+      "experience": "17 years",
+      "landmark": "Near Government School"
+    },
+    {
+      "hospital": "Government Health Centre",
+      "doctor_name": "Dr. Neha Das",
+      "specialization": "Endocrinologist",
+      "experience": "10 years",
+      "landmark": "Next to Police Station"
+    },
+    {
+      "hospital": "Government Health Centre",
+      "doctor_name": "Dr. Ramesh Tiwari",
+      "specialization": "Nephrologist",
+      "experience": "14 years",
+      "landmark": "Opposite Central Park"
+    },
+    {
+      "hospital": "Government Health Centre",
+      "doctor_name": "Dr. Sujata Singh",
+      "specialization": "Pulmonologist",
+      "experience": "9 years",
+      "landmark": "Near Shopping Plaza"
+    },
+    {
+      "hospital": "Government Health Centre",
+      "doctor_name": "Dr. Vinay Reddy",
+      "specialization": "Gynecologist",
+      "experience": "11 years",
+      "landmark": "Next to College"
+    },
+    {
+      "hospital": "Government Health Centre",
+      "doctor_name": "Dr. Arjun Patel",
+      "specialization": "Cardiologist",
+      "experience": "17 years",
+      "landmark": "Beside Metro Station"
+    },
+    {
+      "hospital": "Government Health Centre",
+      "doctor_name": "Dr. Kunal Ghosh",
+      "specialization": "Orthopedic",
+      "experience": "14 years",
+      "landmark": "Near Community Center"
+    },
+    {
+      "hospital": "Government Health Centre",
+      "doctor_name": "Dr. Sanjana Rao",
+      "specialization": "Pediatrician",
+      "experience": "10 years",
+      "landmark": "Near Old Market"
+    },
+    {
+      "hospital": "Government Health Centre",
+      "doctor_name": "Dr. Radhika Kapoor",
+      "specialization": "ENT Specialist",
+      "experience": "12 years",
+      "landmark": "Next to City Hall"
+    },
+    {
+      "hospital": "Government Health Centre",
+      "doctor_name": "Dr. Mahesh Reddy",
+      "specialization": "Oncologist",
+      "experience": "13 years",
+      "landmark": "Near Police Station"
+    },
+    {
+      "hospital": "AIIMS Bhubaneswar",
+      "doctor_name": "Dr. Nitin Kumar",
+      "specialization": "Cardiologist",
+      "experience": "18 years",
+      "landmark": "Near Highway"
+    },
+    {
+      "hospital": "AIIMS Bhubaneswar",
+      "doctor_name": "Dr. Akanksha Sinha",
+      "specialization": "Neurologist",
+      "experience": "10 years",
+      "landmark": "Next to Shopping Plaza"
+    },
+    {
+      "hospital": "AIIMS Bhubaneswar",
+      "doctor_name": "Dr. Harish Gupta",
+      "specialization": "Orthopedic",
+      "experience": "13 years",
+      "landmark": "Near Bus Stand"
+    },
+    {
+      "hospital": "AIIMS Bhubaneswar",
+      "doctor_name": "Dr. Snehal Kapoor",
+      "specialization": "Pediatrician",
+      "experience": "8 years",
+      "landmark": "Beside Central Park"
+    },
+    {
+      "hospital": "AIIMS Bhubaneswar",
+      "doctor_name": "Dr. Vikas Sharma",
+      "specialization": "Dermatologist",
+      "experience": "12 years",
+      "landmark": "Near City Hall"
+    },
+    {
+      "hospital": "AIIMS Bhubaneswar",
+      "doctor_name": "Dr. Kavya Reddy",
+      "specialization": "Gynecologist",
+      "experience": "14 years",
+      "landmark": "Behind Metro Station"
+    },
+    {
+      "hospital": "AIIMS Bhubaneswar",
+      "doctor_name": "Dr. Ravi Patel",
+      "specialization": "ENT Specialist",
+      "experience": "10 years",
+      "landmark": "Opposite Tech Hub"
+    },
+    {
+      "hospital": "AIIMS Bhubaneswar",
+      "doctor_name": "Dr. Neha Tiwari",
+      "specialization": "General Physician",
+      "experience": "9 years",
+      "landmark": "Near Central Market"
+    },
+    {
+      "hospital": "AIIMS Bhubaneswar",
+      "doctor_name": "Dr. Sanjay Roy",
+      "specialization": "Oncologist",
+      "experience": "13 years",
+      "landmark": "Next to Community Center"
+    },
+    {
+      "hospital": "AIIMS Bhubaneswar",
+      "doctor_name": "Dr. Pankaj Mehta",
+      "specialization": "Pulmonologist",
+      "experience": "11 years",
+      "landmark": "Beside Police Station"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Ajay Das",
+      "specialization": "Cardiologist",
+      "experience": "10 years",
+      "landmark": "Near Railway Station"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Meera Kapoor",
+      "specialization": "Dermatologist",
+      "experience": "8 years",
+      "landmark": "Near Shopping Complex"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Ramesh Gupta",
+      "specialization": "Cardiologist",
+      "experience": "15 years",
+      "landmark": "Near Railway Station"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Anjali Sinha",
+      "specialization": "Neurologist",
+      "experience": "12 years",
+      "landmark": "Opposite City Mall"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Vijay Rao",
+      "specialization": "Orthopedic",
+      "experience": "10 years",
+      "landmark": "Near Bus Depot"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Kavita Das",
+      "specialization": "Pediatrician",
+      "experience": "9 years",
+      "landmark": "Beside Railway Station"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Rajesh Kumar",
+      "specialization": "Dermatologist",
+      "experience": "11 years",
+      "landmark": "Near Tech Park"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Sneha Patil",
+      "specialization": "Gynecologist",
+      "experience": "14 years",
+      "landmark": "Next to City Library"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Alok Sharma",
+      "specialization": "ENT Specialist",
+      "experience": "13 years",
+      "landmark": "Opposite Central Hospital"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Manish Sen",
+      "specialization": "General Physician",
+      "experience": "8 years",
+      "landmark": "Near Green Park"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Pratik Jain",
+      "specialization": "Oncologist",
+      "experience": "16 years",
+      "landmark": "Next to Community Hall"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Vinod Kapoor",
+      "specialization": "Pulmonologist",
+      "experience": "10 years",
+      "landmark": "Near IT Hub"
+    },
+    {
+      "hospital": "Hi-Tech Medical College & Hospital",
+      "doctor_name": "Dr. Ravi Nanda",
+      "specialization": "Cardiologist",
+      "experience": "17 years",
+      "landmark": "Near Government School"
+    },
+    {
+      "hospital": "Hi-Tech Medical College & Hospital",
+      "doctor_name": "Dr. Neha Das",
+      "specialization": "Endocrinologist",
+      "experience": "10 years",
+      "landmark": "Next to Police Station"
+    },
+    {
+      "hospital": "Hi-Tech Medical College & Hospital",
+      "doctor_name": "Dr. Ramesh Tiwari",
+      "specialization": "Nephrologist",
+      "experience": "14 years",
+      "landmark": "Opposite Central Park"
+    },
+    {
+      "hospital": "Hi-Tech Medical College & Hospital",
+      "doctor_name": "Dr. Sujata Singh",
+      "specialization": "Pulmonologist",
+      "experience": "9 years",
+      "landmark": "Near Shopping Plaza"
+    },
+    {
+      "hospital": "Hi-Tech Medical College & Hospital",
+      "doctor_name": "Dr. Vinay Reddy",
+      "specialization": "Gynecologist",
+      "experience": "11 years",
+      "landmark": "Next to College"
+    },
+    {
+      "hospital": "Hi-Tech Medical College & Hospital",
+      "doctor_name": "Dr. Arjun Patel",
+      "specialization": "Cardiologist",
+      "experience": "17 years",
+      "landmark": "Beside Metro Station"
+    },
+    {
+      "hospital": "Hi-Tech Medical College & Hospital",
+      "doctor_name": "Dr. Kunal Ghosh",
+      "specialization": "Orthopedic",
+      "experience": "14 years",
+      "landmark": "Near Community Center"
+    },
+    {
+      "hospital": "Hi-Tech Medical College & Hospital",
+      "doctor_name": "Dr. Sanjana Rao",
+      "specialization": "Pediatrician",
+      "experience": "10 years",
+      "landmark": "Near Old Market"
+    },
+    {
+      "hospital": "Hi-Tech Medical College & Hospital",
+      "doctor_name": "Dr. Radhika Kapoor",
+      "specialization": "ENT Specialist",
+      "experience": "12 years",
+      "landmark": "Next to City Hall"
+    },
+    {
+      "hospital": "Hi-Tech Medical College & Hospital",
+      "doctor_name": "Dr. Mahesh Reddy",
+      "specialization": "Oncologist",
+      "experience": "13 years",
+      "landmark": "Near Police Station"
+    },
+    {
+      "hospital": "Srijan Hospital",
+      "doctor_name": "Dr. Nitin Kumar",
+      "specialization": "Cardiologist",
+      "experience": "18 years",
+      "landmark": "Near Highway"
+    },
+    {
+      "hospital": "Srijan Hospital",
+      "doctor_name": "Dr. Akanksha Sinha",
+      "specialization": "Neurologist",
+      "experience": "10 years",
+      "landmark": "Next to Shopping Plaza"
+    },
+    {
+      "hospital": "Srijan Hospital",
+      "doctor_name": "Dr. Harish Gupta",
+      "specialization": "Orthopedic",
+      "experience": "13 years",
+      "landmark": "Near Bus Stand"
+    },
+    {
+      "hospital": "Srijan Hospital",
+      "doctor_name": "Dr. Snehal Kapoor",
+      "specialization": "Pediatrician",
+      "experience": "8 years",
+      "landmark": "Beside Central Park"
+    },
+    {
+      "hospital": "Srijan Hospital",
+      "doctor_name": "Dr. Vikas Sharma",
+      "specialization": "Dermatologist",
+      "experience": "12 years",
+      "landmark": "Near City Hall"
+    },
+    {
+      "hospital": "Srijan Hospital",
+      "doctor_name": "Dr. Kavya Reddy",
+      "specialization": "Gynecologist",
+      "experience": "14 years",
+      "landmark": "Behind Metro Station"
+    },
+    {
+      "hospital": "Srijan Hospital",
+      "doctor_name": "Dr. Ravi Patel",
+      "specialization": "ENT Specialist",
+      "experience": "10 years",
+      "landmark": "Opposite Tech Hub"
+    },
+    {
+      "hospital": "Srijan Hospital",
+      "doctor_name": "Dr. Neha Tiwari",
+      "specialization": "General Physician",
+      "experience": "9 years",
+      "landmark": "Near Central Market"
+    },
+    {
+      "hospital": "Srijan Hospital",
+      "doctor_name": "Dr. Sanjay Roy",
+      "specialization": "Oncologist",
+      "experience": "13 years",
+      "landmark": "Next to Community Center"
+    },
+    {
+      "hospital": "Srijan Hospital",
+      "doctor_name": "Dr. Pankaj Mehta",
+      "specialization": "Pulmonologist",
+      "experience": "11 years",
+      "landmark": "Beside Police Station"
+    },
+    {
+      "hospital": "Medcare Hospital",
+      "doctor_name": "Dr. Amit Raj",
+      "specialization": "Cardiologist",
+      "experience": "10 years",
+      "landmark": "Near Railway Station"
+    },
+    {
+      "hospital": "Medcare Hospital",
+      "doctor_name": "Dr. Meera Kapoor",
+      "specialization": "Dermatologist",
+      "experience": "8 years",
+      "landmark": "Near Shopping Complex"
+    },
+    {
+      "hospital": "Hi-Tech Medical College & Hospital",
+      "doctor_name": "Dr. Ramesh Prasad",
+      "specialization": "Cardiologist",
+      "experience": "15 years",
+      "landmark": "Near Bus Stand"
+    },
+    {
+      "hospital": "Hi-Tech Medical College & Hospital",
+      "doctor_name": "Dr. Sneha Verma",
+      "specialization": "Neurologist",
+      "experience": "12 years",
+      "landmark": "Opposite City Mall"
+    },
+    {
+      "hospital": "Hi-Tech Medical College & Hospital",
+      "doctor_name": "Dr. Sanjay Rao",
+      "specialization": "Orthopedic",
+      "experience": "14 years",
+      "landmark": "Near Tech Park"
+    },
+    {
+      "hospital": "Hi-Tech Medical College & Hospital",
+      "doctor_name": "Dr. Kavita Sharma",
+      "specialization": "Pediatrician",
+      "experience": "10 years",
+      "landmark": "Beside Railway Station"
+    },
+    {
+      "hospital": "Hi-Tech Medical College & Hospital",
+      "doctor_name": "Dr. Rajiv Nanda",
+      "specialization": "Dermatologist",
+      "experience": "11 years",
+      "landmark": "Near Green Park"
+    },
+    {
+      "hospital": "Hi-Tech Medical College & Hospital",
+      "doctor_name": "Dr. Priya Das",
+      "specialization": "Gynecologist",
+      "experience": "14 years",
+      "landmark": "Next to Community Hall"
+    },
+    {
+      "hospital": "Hi-Tech Medical College & Hospital",
+      "doctor_name": "Dr. Arjun Mehta",
+      "specialization": "ENT Specialist",
+      "experience": "13 years",
+      "landmark": "Opposite Central Hospital"
+    },
+    {
+      "hospital": "Hi-Tech Medical College & Hospital",
+      "doctor_name": "Dr. Manish Sen",
+      "specialization": "General Physician",
+      "experience": "8 years",
+      "landmark": "Near IT Hub"
+    },
+    {
+      "hospital": "Hi-Tech Medical College & Hospital",
+      "doctor_name": "Dr. Aditi Roy",
+      "specialization": "Oncologist",
+      "experience": "16 years",
+      "landmark": "Next to Metro Station"
+    },
+    {
+      "hospital": "Hi-Tech Medical College & Hospital",
+      "doctor_name": "Dr. Vinod Kapoor",
+      "specialization": "Pulmonologist",
+      "experience": "10 years",
+      "landmark": "Near Shopping Plaza"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Rakesh Sharma",
+      "specialization": "Cardiologist",
+      "experience": "17 years",
+      "landmark": "Near Government School"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Neha Das",
+      "specialization": "Endocrinologist",
+      "experience": "10 years",
+      "landmark": "Next to Police Station"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Amit Tiwari",
+      "specialization": "Nephrologist",
+      "experience": "14 years",
+      "landmark": "Opposite Central Park"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Renu Singh",
+      "specialization": "Pulmonologist",
+      "experience": "9 years",
+      "landmark": "Near Shopping Plaza"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Sunil Reddy",
+      "specialization": "Gynecologist",
+      "experience": "11 years",
+      "landmark": "Next to College"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Arjun Patel",
+      "specialization": "Cardiologist",
+      "experience": "17 years",
+      "landmark": "Beside Metro Station"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Kunal Ghosh",
+      "specialization": "Orthopedic",
+      "experience": "14 years",
+      "landmark": "Near Community Center"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Sanjana Rao",
+      "specialization": "Pediatrician",
+      "experience": "10 years",
+      "landmark": "Near Old Market"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Radhika Kapoor",
+      "specialization": "ENT Specialist",
+      "experience": "12 years",
+      "landmark": "Next to City Hall"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Mahesh Reddy",
+      "specialization": "Oncologist",
+      "experience": "13 years",
+      "landmark": "Near Police Station"
+    },
+    {
+      "hospital": "Sundargarh Medical College",
+      "doctor_name": "Dr. Nitin Kumar",
+      "specialization": "Cardiologist",
+      "experience": "18 years",
+      "landmark": "Near Highway"
+    },
+    {
+      "hospital": "Sundargarh Medical College",
+      "doctor_name": "Dr. Akanksha Sinha",
+      "specialization": "Neurologist",
+      "experience": "10 years",
+      "landmark": "Next to Shopping Plaza"
+    },
+    {
+      "hospital": "Sundargarh Medical College",
+      "doctor_name": "Dr. Harish Gupta",
+      "specialization": "Orthopedic",
+      "experience": "13 years",
+      "landmark": "Near Bus Stand"
+    },
+    {
+      "hospital": "Sundargarh Medical College",
+      "doctor_name": "Dr. Snehal Kapoor",
+      "specialization": "Pediatrician",
+      "experience": "8 years",
+      "landmark": "Beside Central Park"
+    },
+    {
+      "hospital": "Sundargarh Medical College",
+      "doctor_name": "Dr. Vikas Sharma",
+      "specialization": "Dermatologist",
+      "experience": "12 years",
+      "landmark": "Near City Hall"
+    },
+    {
+      "hospital": "Sundargarh Medical College",
+      "doctor_name": "Dr. Kavya Reddy",
+      "specialization": "Gynecologist",
+      "experience": "14 years",
+      "landmark": "Behind Metro Station"
+    },
+    {
+      "hospital": "Sundargarh Medical College",
+      "doctor_name": "Dr. Ravi Patel",
+      "specialization": "ENT Specialist",
+      "experience": "10 years",
+      "landmark": "Opposite Tech Hub"
+    },
+    {
+      "hospital": "Sundargarh Medical College",
+      "doctor_name": "Dr. Neha Tiwari",
+      "specialization": "General Physician",
+      "experience": "9 years",
+      "landmark": "Near Central Market"
+    },
+    {
+      "hospital": "Sundargarh Medical College",
+      "doctor_name": "Dr. Sanjay Roy",
+      "specialization": "Oncologist",
+      "experience": "13 years",
+      "landmark": "Next to Community Center"
+    },
+    {
+      "hospital": "Sundargarh Medical College",
+      "doctor_name": "Dr. Pankaj Mehta",
+      "specialization": "Pulmonologist",
+      "experience": "11 years",
+      "landmark": "Beside Police Station"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Amit Raj",
+      "specialization": "Cardiologist",
+      "experience": "10 years",
+      "landmark": "Near Railway Station"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Meera Kapoor",
+      "specialization": "Dermatologist",
+      "experience": "8 years",
+      "landmark": "Near Shopping Complex"
+    },
+    {
+      "hospital": "SUM Hospital",
+      "doctor_name": "Dr. Rajesh Kumar",
+      "specialization": "Cardiologist",
+      "experience": "15 years",
+      "landmark": "Near City Center"
+    },
+    {
+      "hospital": "SUM Hospital",
+      "doctor_name": "Dr. Sneha Das",
+      "specialization": "Neurologist",
+      "experience": "12 years",
+      "landmark": "Beside Bus Stand"
+    },
+    {
+      "hospital": "SUM Hospital",
+      "doctor_name": "Dr. Sanjay Patnaik",
+      "specialization": "Orthopedic",
+      "experience": "14 years",
+      "landmark": "Opposite Railway Station"
+    },
+    {
+      "hospital": "SUM Hospital",
+      "doctor_name": "Dr. Kavita Sharma",
+      "specialization": "Pediatrician",
+      "experience": "10 years",
+      "landmark": "Near Green Park"
+    },
+    {
+      "hospital": "SUM Hospital",
+      "doctor_name": "Dr. Ramesh Nanda",
+      "specialization": "Dermatologist",
+      "experience": "11 years",
+      "landmark": "Next to Shopping Mall"
+    },
+    {
+      "hospital": "SUM Hospital",
+      "doctor_name": "Dr. Priya Mehta",
+      "specialization": "Gynecologist",
+      "experience": "14 years",
+      "landmark": "Near Tech Park"
+    },
+    {
+      "hospital": "SUM Hospital",
+      "doctor_name": "Dr. Arjun Rao",
+      "specialization": "ENT Specialist",
+      "experience": "13 years",
+      "landmark": "Beside Metro Station"
+    },
+    {
+      "hospital": "SUM Hospital",
+      "doctor_name": "Dr. Manish Sen",
+      "specialization": "General Physician",
+      "experience": "8 years",
+      "landmark": "Near Old Market"
+    },
+    {
+      "hospital": "SUM Hospital",
+      "doctor_name": "Dr. Aditi Roy",
+      "specialization": "Oncologist",
+      "experience": "16 years",
+      "landmark": "Near City Plaza"
+    },
+    {
+      "hospital": "SUM Hospital",
+      "doctor_name": "Dr. Vinod Kapoor",
+      "specialization": "Pulmonologist",
+      "experience": "10 years",
+      "landmark": "Next to Community Hall"
+    },
+    {
+      "hospital": "Care Hospital",
+      "doctor_name": "Dr. Rakesh Sharma",
+      "specialization": "Cardiologist",
+      "experience": "17 years",
+      "landmark": "Near Government School"
+    },
+    {
+      "hospital": "Care Hospital",
+      "doctor_name": "Dr. Neha Das",
+      "specialization": "Endocrinologist",
+      "experience": "10 years",
+      "landmark": "Next to Police Station"
+    },
+    {
+      "hospital": "Care Hospital",
+      "doctor_name": "Dr. Amit Tiwari",
+      "specialization": "Nephrologist",
+      "experience": "14 years",
+      "landmark": "Opposite Central Park"
+    },
+    {
+      "hospital": "Care Hospital",
+      "doctor_name": "Dr. Renu Singh",
+      "specialization": "Pulmonologist",
+      "experience": "9 years",
+      "landmark": "Near Shopping Plaza"
+    },
+    {
+      "hospital": "Care Hospital",
+      "doctor_name": "Dr. Sunil Reddy",
+      "specialization": "Gynecologist",
+      "experience": "11 years",
+      "landmark": "Next to College"
+    },
+    {
+      "hospital": "Care Hospital",
+      "doctor_name": "Dr. Arjun Patel",
+      "specialization": "Cardiologist",
+      "experience": "17 years",
+      "landmark": "Beside Metro Station"
+    },
+    {
+      "hospital": "Care Hospital",
+      "doctor_name": "Dr. Kunal Ghosh",
+      "specialization": "Orthopedic",
+      "experience": "14 years",
+      "landmark": "Near Community Center"
+    },
+    {
+      "hospital": "Care Hospital",
+      "doctor_name": "Dr. Sanjana Rao",
+      "specialization": "Pediatrician",
+      "experience": "10 years",
+      "landmark": "Near Old Market"
+    },
+    {
+      "hospital": "Care Hospital",
+      "doctor_name": "Dr. Radhika Kapoor",
+      "specialization": "ENT Specialist",
+      "experience": "12 years",
+      "landmark": "Next to City Hall"
+    },
+    {
+      "hospital": "Care Hospital",
+      "doctor_name": "Dr. Mahesh Reddy",
+      "specialization": "Oncologist",
+      "experience": "13 years",
+      "landmark": "Near Police Station"
+    },
+    {
+      "hospital": "Medicare Hospital",
+      "doctor_name": "Dr. Nitin Kumar",
+      "specialization": "Cardiologist",
+      "experience": "18 years",
+      "landmark": "Near Highway"
+    },
+    {
+      "hospital": "Medicare Hospital",
+      "doctor_name": "Dr. Akanksha Sinha",
+      "specialization": "Neurologist",
+      "experience": "10 years",
+      "landmark": "Next to Shopping Plaza"
+    },
+    {
+      "hospital": "Medicare Hospital",
+      "doctor_name": "Dr. Harish Gupta",
+      "specialization": "Orthopedic",
+      "experience": "13 years",
+      "landmark": "Near Bus Stand"
+    },
+    {
+      "hospital": "Medicare Hospital",
+      "doctor_name": "Dr. Snehal Kapoor",
+      "specialization": "Pediatrician",
+      "experience": "8 years",
+      "landmark": "Beside Central Park"
+    },
+    {
+      "hospital": "Medicare Hospital",
+      "doctor_name": "Dr. Vikas Sharma",
+      "specialization": "Dermatologist",
+      "experience": "12 years",
+      "landmark": "Near City Hall"
+    },
+    {
+      "hospital": "Medicare Hospital",
+      "doctor_name": "Dr. Kavya Reddy",
+      "specialization": "Gynecologist",
+      "experience": "14 years",
+      "landmark": "Behind Metro Station"
+    },
+    {
+      "hospital": "Medicare Hospital",
+      "doctor_name": "Dr. Ravi Patel",
+      "specialization": "ENT Specialist",
+      "experience": "10 years",
+      "landmark": "Opposite Tech Hub"
+    },
+    {
+      "hospital": "Medicare Hospital",
+      "doctor_name": "Dr. Neha Tiwari",
+      "specialization": "General Physician",
+      "experience": "9 years",
+      "landmark": "Near Central Market"
+    },
+    {
+      "hospital": "Medicare Hospital",
+      "doctor_name": "Dr. Sanjay Roy",
+      "specialization": "Oncologist",
+      "experience": "13 years",
+      "landmark": "Next to Community Center"
+    },
+    {
+      "hospital": "Medicare Hospital",
+      "doctor_name": "Dr. Pankaj Mehta",
+      "specialization": "Pulmonologist",
+      "experience": "11 years",
+      "landmark": "Beside Police Station"
+    },
+    {
+      "hospital": "Sampoorna Hospital",
+      "doctor_name": "Dr. Meera Kapoor",
+      "specialization": "Dermatologist",
+      "experience": "8 years",
+      "landmark": "Near Shopping Complex"
+    },
+    {
+      "hospital": "Sampoorna Hospital",
+      "doctor_name": "Dr. Amit Raj",
+      "specialization": "Cardiologist",
+      "experience": "10 years",
+      "landmark": "Near Railway Station"
+    },
+    {
+      "hospital": "Bhubaneswar Hospital",
+      "doctor_name": "Dr. Rajesh Singh",
+      "specialization": "ENT Specialist",
+      "experience": "11 years",
+      "landmark": "Near Central Plaza"
+    },
+    {
+      "hospital": "Shree Hospital",
+      "doctor_name": "Dr. Sunita Rao",
+      "specialization": "Gynecologist",
+      "experience": "12 years",
+      "landmark": "Near Tech Park"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Anil Verma",
+      "specialization": "Cardiologist",
+      "experience": "15 years",
+      "landmark": "Near Central Mall"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Priya Nair",
+      "specialization": "Neurologist",
+      "experience": "12 years",
+      "landmark": "Beside City Park"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Rohan Mehta",
+      "specialization": "Orthopedic",
+      "experience": "14 years",
+      "landmark": "Opposite Metro Station"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Sanjana Bose",
+      "specialization": "Pediatrician",
+      "experience": "10 years",
+      "landmark": "Near Community Center"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Rajesh Khanna",
+      "specialization": "Dermatologist",
+      "experience": "11 years",
+      "landmark": "Next to Government Office"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Nisha Kapoor",
+      "specialization": "Gynecologist",
+      "experience": "14 years",
+      "landmark": "Near Bus Depot"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Prakash Reddy",
+      "specialization": "ENT Specialist",
+      "experience": "13 years",
+      "landmark": "Beside Railway Station"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Aditya Roy",
+      "specialization": "General Physician",
+      "experience": "8 years",
+      "landmark": "Near Old Market"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Radhika Sen",
+      "specialization": "Oncologist",
+      "experience": "16 years",
+      "landmark": "Near Tech Hub"
+    },
+    {
+      "hospital": "AMRI Hospital",
+      "doctor_name": "Dr. Manish Tiwari",
+      "specialization": "Pulmonologist",
+      "experience": "10 years",
+      "landmark": "Next to Shopping Plaza"
+    },
+    {
+      "hospital": "Mediwish Hospital",
+      "doctor_name": "Dr. Surya Sharma",
+      "specialization": "Cardiologist",
+      "experience": "17 years",
+      "landmark": "Near Highway"
+    },
+    {
+      "hospital": "Mediwish Hospital",
+      "doctor_name": "Dr. Ananya Rao",
+      "specialization": "Endocrinologist",
+      "experience": "10 years",
+      "landmark": "Next to Shopping Mall"
+    },
+    {
+      "hospital": "Mediwish Hospital",
+      "doctor_name": "Dr. Vikash Patel",
+      "specialization": "Nephrologist",
+      "experience": "14 years",
+      "landmark": "Near Central Park"
+    },
+    {
+      "hospital": "Mediwish Hospital",
+      "doctor_name": "Dr. Pratibha Sen",
+      "specialization": "Pulmonologist",
+      "experience": "9 years",
+      "landmark": "Near City Plaza"
+    },
+    {
+      "hospital": "Mediwish Hospital",
+      "doctor_name": "Dr. Swati Reddy",
+      "specialization": "Gynecologist",
+      "experience": "11 years",
+      "landmark": "Next to Hospital Main Gate"
+    },
+    {
+      "hospital": "Mediwish Hospital",
+      "doctor_name": "Dr. Ramesh Agarwal",
+      "specialization": "Cardiologist",
+      "experience": "17 years",
+      "landmark": "Beside Government School"
+    },
+    {
+      "hospital": "Mediwish Hospital",
+      "doctor_name": "Dr. Aditi Sen",
+      "specialization": "Orthopedic",
+      "experience": "14 years",
+      "landmark": "Near Police Station"
+    },
+    {
+      "hospital": "Mediwish Hospital",
+      "doctor_name": "Dr. Nitin Kapoor",
+      "specialization": "Pediatrician",
+      "experience": "10 years",
+      "landmark": "Near City Hall"
+    },
+    {
+      "hospital": "Mediwish Hospital",
+      "doctor_name": "Dr. Arjun Ghosh",
+      "specialization": "ENT Specialist",
+      "experience": "12 years",
+      "landmark": "Next to Community Center"
+    },
+    {
+      "hospital": "Mediwish Hospital",
+      "doctor_name": "Dr. Kavita Mehta",
+      "specialization": "Oncologist",
+      "experience": "13 years",
+      "landmark": "Near Tech Park"
+    },
+    {
+      "hospital": "Bhubaneswar Hospital",
+      "doctor_name": "Dr. Kunal Sharma",
+      "specialization": "Cardiologist",
+      "experience": "18 years",
+      "landmark": "Near City Bus Stand"
+    },
+    {
+      "hospital": "Bhubaneswar Hospital",
+      "doctor_name": "Dr. Harshita Rao",
+      "specialization": "Neurologist",
+      "experience": "10 years",
+      "landmark": "Beside Metro Station"
+    },
+    {
+      "hospital": "Bhubaneswar Hospital",
+      "doctor_name": "Dr. Manish Tiwari",
+      "specialization": "Orthopedic",
+      "experience": "13 years",
+      "landmark": "Near Shopping Center"
+    },
+    {
+      "hospital": "Bhubaneswar Hospital",
+      "doctor_name": "Dr. Sakshi Verma",
+      "specialization": "Pediatrician",
+      "experience": "8 years",
+      "landmark": "Beside Park"
+    },
+    {
+      "hospital": "Bhubaneswar Hospital",
+      "doctor_name": "Dr. Rohit Kapoor",
+      "specialization": "Dermatologist",
+      "experience": "12 years",
+      "landmark": "Near Government School"
+    },
+    {
+      "hospital": "Bhubaneswar Hospital",
+      "doctor_name": "Dr. Ayesha Reddy",
+      "specialization": "Gynecologist",
+      "experience": "14 years",
+      "landmark": "Behind Old Market"
+    },
+    {
+      "hospital": "Bhubaneswar Hospital",
+      "doctor_name": "Dr. Rahul Patel",
+      "specialization": "ENT Specialist",
+      "experience": "10 years",
+      "landmark": "Opposite Tech Hub"
+    },
+    {
+      "hospital": "Bhubaneswar Hospital",
+      "doctor_name": "Dr. Shruti Tiwari",
+      "specialization": "General Physician",
+      "experience": "9 years",
+      "landmark": "Near Highway"
+    },
+    {
+      "hospital": "Bhubaneswar Hospital",
+      "doctor_name": "Dr. Sanjay Roy",
+      "specialization": "Oncologist",
+      "experience": "13 years",
+      "landmark": "Next to Central Market"
+    },
+    {
+      "hospital": "Bhubaneswar Hospital",
+      "doctor_name": "Dr. Prakash Mehta",
+      "specialization": "Pulmonologist",
+      "experience": "11 years",
+      "landmark": "Beside City Hall"
+    },
+    {
+      "hospital": "Kalinga Hospital",
+      "doctor_name": "Dr. Meera Kapoor",
+      "specialization": "Dermatologist",
+      "experience": "8 years",
+      "landmark": "Near Shopping Complex"
+    },
+    {
+      "hospital": "Medcare Hospital",
+      "doctor_name": "Dr. Amit Raj",
+      "specialization": "Cardiologist",
+      "experience": "10 years",
+      "landmark": "Near Railway Station"
+    },
+    {
+      "hospital": "Sri Sri Hospital",
+      "doctor_name": "Dr. Ramesh Sharma",
+      "specialization": "Cardiologist",
+      "experience": "15 years",
+      "landmark": "Near City Square"
+    },
+    {
+      "hospital": "Sri Sri Hospital",
+      "doctor_name": "Dr. Nandini Rao",
+      "specialization": "Neurologist",
+      "experience": "12 years",
+      "landmark": "Beside Shopping Mall"
+    },
+    {
+      "hospital": "Sri Sri Hospital",
+      "doctor_name": "Dr. Vikram Mehta",
+      "specialization": "Orthopedic",
+      "experience": "14 years",
+      "landmark": "Opposite Central Park"
+    },
+    {
+      "hospital": "Sri Sri Hospital",
+      "doctor_name": "Dr. Sunita Bose",
+      "specialization": "Pediatrician",
+      "experience": "10 years",
+      "landmark": "Near Community Hall"
+    },
+    {
+      "hospital": "Sri Sri Hospital",
+      "doctor_name": "Dr. Rohit Khanna",
+      "specialization": "Dermatologist",
+      "experience": "11 years",
+      "landmark": "Next to Metro Station"
+    },
+    {
+      "hospital": "Sri Sri Hospital",
+      "doctor_name": "Dr. Alok Kapoor",
+      "specialization": "Gynecologist",
+      "experience": "14 years",
+      "landmark": "Near Bus Stand"
+    },
+    {
+      "hospital": "Sri Sri Hospital",
+      "doctor_name": "Dr. Raghav Reddy",
+      "specialization": "ENT Specialist",
+      "experience": "13 years",
+      "landmark": "Near Tech Park"
+    },
+    {
+      "hospital": "Sri Sri Hospital",
+      "doctor_name": "Dr. Aditya Roy",
+      "specialization": "General Physician",
+      "experience": "8 years",
+      "landmark": "Next to Old Market"
+    },
+    {
+      "hospital": "Sri Sri Hospital",
+      "doctor_name": "Dr. Preeti Sen",
+      "specialization": "Oncologist",
+      "experience": "16 years",
+      "landmark": "Near IT Hub"
+    },
+    {
+      "hospital": "Sri Sri Hospital",
+      "doctor_name": "Dr. Manish Tiwari",
+      "specialization": "Pulmonologist",
+      "experience": "10 years",
+      "landmark": "Next to Hospital Main Gate"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Kunal Sharma",
+      "specialization": "Cardiologist",
+      "experience": "17 years",
+      "landmark": "Near City Highway"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Ananya Rao",
+      "specialization": "Endocrinologist",
+      "experience": "10 years",
+      "landmark": "Next to Shopping Complex"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Vikash Patel",
+      "specialization": "Nephrologist",
+      "experience": "14 years",
+      "landmark": "Near Government Office"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Pratibha Sen",
+      "specialization": "Pulmonologist",
+      "experience": "9 years",
+      "landmark": "Beside City Plaza"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Swati Reddy",
+      "specialization": "Gynecologist",
+      "experience": "11 years",
+      "landmark": "Next to Hospital Entrance"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Ramesh Agarwal",
+      "specialization": "Cardiologist",
+      "experience": "17 years",
+      "landmark": "Near Police Station"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Aditi Sen",
+      "specialization": "Orthopedic",
+      "experience": "14 years",
+      "landmark": "Near City Hall"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Nitin Kapoor",
+      "specialization": "Pediatrician",
+      "experience": "10 years",
+      "landmark": "Opposite Railway Station"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Arjun Ghosh",
+      "specialization": "ENT Specialist",
+      "experience": "12 years",
+      "landmark": "Near Old Bus Depot"
+    },
+    {
+      "hospital": "Sambalpur Hospital",
+      "doctor_name": "Dr. Kavita Mehta",
+      "specialization": "Oncologist",
+      "experience": "13 years",
+      "landmark": "Next to Shopping Plaza"
+    },
+    {
+      "hospital": "Srijan Hospital",
+      "doctor_name": "Dr. Meera Kapoor",
+      "specialization": "Dermatologist",
+      "experience": "8 years",
+      "landmark": "Near IT Park"
+    },
+    {
+      "hospital": "Medicare Hospital",
+      "doctor_name": "Dr. Amit Raj",
+      "specialization": "Cardiologist",
+      "experience": "10 years",
+      "landmark": "Near Railway Station"
+    },
+    {
+      "hospital": "Vimala Hospital",
+      "doctor_name": "Dr. Kavya Sharma",
+      "specialization": "Pulmonologist",
+      "experience": "11 years",
+      "landmark": "Near Central Square"
+    },
+    {
+      "hospital": "Chandra Hospital",
+      "doctor_name": "Dr. Aditi Verma",
+      "specialization": "Gynecologist",
+      "experience": "9 years",
+      "landmark": "Next to Old Market"
+    },
+    {
+      "hospital": "Sum Hospital",
+      "doctor_name": "Dr. Sanjay Patel",
+      "specialization": "Oncologist",
+      "experience": "13 years",
+      "landmark": "Near Bus Depot"
+    },
+    {
+      "hospital": "Ashwini Hospital",
+      "doctor_name": "Dr. Nikhil Mehta",
+      "specialization": "General Physician",
+      "experience": "10 years",
+      "landmark": "Beside Government Building"
+    }
+  ]
+}
