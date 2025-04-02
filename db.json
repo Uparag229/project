@@ -1,0 +1,19 @@
+{
+  "areas": [
+    {"id": 1, "name": "Unit-1 (Station Bazaar)"},
+    {"id": 2, "name": "Unit-2 (Saheed Nagar)"},
+    {"id": 3, "name": "Unit-3 (Bhubaneswar Railway Station Area)"},
+    {"id": 4, "name": "Laxmi Sagar"},
+    {"id": 5, "name": "Khandagiri"},
+    {"id": 6, "name": "Cuttack Road"},
+    {"id": 7, "name": "Sahid Nagar"},
+    {"id": 8, "name": "Bapujinagar"},
+    {"id": 9, "name": "Old Town"},
+    {"id": 10, "name": "Patia"},
+    {"id": 11, "name": "Dumduma"},
+    {"id": 12, "name": "Baramunda"},
+    {"id": 13, "name": "Niladri Vihar"},
+    {"id": 14, "name": "Chandrasekharpur"},
+    {"id": 15, "name": "Bhubaneswar Smart City Area"}
+  ]
+}
